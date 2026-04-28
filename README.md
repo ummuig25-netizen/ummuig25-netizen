@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hola, soy Umar Sharif Muhammad Iglesias
-### **Web Developer & Sustainability Tech Enthusiast**
+### **Estudiante de SMR & Apasionado por el Desarrollo Web**
 
 <img src="profile_new.png" width="220" style="border-radius: 50%; border: 4px solid #3178C6; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-> *Especialista en desarrollo web con un enfoque firme en la **sostenibilidad**. Actualmente cursando SMR, donde fusiono hardware eficiente con arquitecturas frontend modernas y soluciones avanzadas de IoT.*
+> *Soy un estudiante de Sistemas Microinformáticos y Redes con una gran pasión por el mundo de la **programación** y la creación de **páginas web**. Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.*
 
 <br/>
 
@@ -88,7 +88,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
   <br/>
-  <p><i>"Impulsando la economía circular a través de la tecnología."</i></p>
+  <p><i>"Construyendo el futuro de la web, un commit a la vez."</i></p>
 </div>
 
 </div>
