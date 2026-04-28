@@ -1,17 +1,24 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Umar Sharif Muhammad Iglesias</h1>
-      <p>🇪🇸 <b>Spanish</b> &nbsp; | &nbsp; 🇵🇰 <b>Pakistani</b></p>
-      <p><b>Web Developer & Sustainability Tech Enthusiast</b></p>
-      <p>Especialista en desarrollo web con enfoque en sistemas sostenibles. Actualmente cursando SMR, donde integro hardware eficiente con arquitecturas frontend modernas y soluciones de IoT.</p>
-      <p>Interesado en el <b>Clean Code</b> y cómo la tecnología puede impulsar la economía circular.</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/250295084?v=4" width="180" style="border-radius: 50%; border: 2px solid #ffffff;" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="profile_new.png" width="200" style="border-radius: 50%; border: 4px solid #3178C6; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  
+  <h1>Umar Sharif Muhammad Iglesias</h1>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png" width="30" /> &nbsp;
+    <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/pk.png" width="30" />
+  </p>
+
+  <h3><b>Web Developer & Sustainability Tech Enthusiast</b></h3>
+
+  <p align="center">
+    <i>Especialista en desarrollo web con enfoque en sistemas sostenibles. Actualmente cursando SMR,<br/>
+    donde integro hardware eficiente con arquitecturas frontend modernas y soluciones de IoT.</i>
+  </p>
+
+  <p align="center">
+    Interesado en el <b>Clean Code</b> y cómo la tecnología puede impulsar la economía circular.
+  </p>
+</div>
 
 ---
 
