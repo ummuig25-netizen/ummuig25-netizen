@@ -1,17 +1,17 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=UMAR%20SHARIF&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
-  
-  <h3> 🇪🇸 Spanish &nbsp;&nbsp; | &nbsp;&nbsp; 🇵🇰 Pakistani </h3>
-  <p><b>Web Developer & Sustainability Tech Enthusiast</b></p>
-</div>
-
----
-
-## 👨‍💻 Acerca de mí
-
-Especialista en **Desarrollo Web** y apasionado por la **Sostenibilidad Tecnológica**. Combino mis raíces culturales de **España** y **Pakistán** para aportar una visión diversa y global a mis proyectos. Actualmente estoy cursando SMR, donde desarrollo soluciones que integran el hardware sostenible con el desarrollo frontend moderno.
-
-Mi enfoque se basa en el **Clean Code** y el uso de tecnologías de vanguardia para crear un impacto positivo tanto en el usuario como en el planeta.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Umar Sharif Muhammad Iglesias</h1>
+      <p>🇪🇸 <b>Spanish</b> &nbsp; | &nbsp; 🇵🇰 <b>Pakistani</b></p>
+      <p><b>Web Developer & Sustainability Tech Enthusiast</b></p>
+      <p>Especialista en desarrollo web con enfoque en sistemas sostenibles. Actualmente cursando SMR, donde integro hardware eficiente con arquitecturas frontend modernas y soluciones de IoT.</p>
+      <p>Interesado en el <b>Clean Code</b> y cómo la tecnología puede impulsar la economía circular.</p>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://avatars.githubusercontent.com/u/250295084?v=4" width="180" style="border-radius: 50%; border: 2px solid #ffffff;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,13 +50,13 @@ Mi enfoque se basa en el **Clean Code** y el uso de tecnologías de vanguardia p
 <table border="0">
   <tr>
     <td width="50%">
-      <h4>🌐 CYCLE-IT</h4>
-      <p>App de gestión de hardware con enfoque en economía circular. Trazabilidad de CO2 y eficiencia energética mediante IoT.</p>
+      <h4>🌐 [CYCLE-IT](https://github.com/epuertasa/CYCLE-IT)</h4>
+      <p>SaaS de gestión de hardware sostenible. Incluye trazabilidad de CO2 mediante códigos QR y eficiencia energética con IoT.</p>
       <code>TypeScript</code> <code>React</code> <code>IoT</code>
     </td>
     <td width="50%">
-      <h4>📁 Diseño Web Corporativo</h4>
-      <p>Portafolio de prácticas de instituto centradas en UX/UI profesional y maquetación responsive de alta fidelidad.</p>
+      <h4>📁 [Diseño Web Corporativo](https://github.com/ummuig25-netizen/disseny-web)</h4>
+      <p>Portafolio de interfaces y maquetación responsive centradas en la experiencia de usuario y rendimiento óptimo.</p>
       <code>HTML5</code> <code>CSS3</code> <code>Responsive</code>
     </td>
   </tr>
@@ -67,19 +67,23 @@ Mi enfoque se basa en el **Clean Code** y el uso de tecnologías de vanguardia p
 ## 📊 Estadísticas de Desarrollador
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummuig25-netizen&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=FF6B35&currStreakLabel=ffffff" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
   <a href="https://github.com/ummuig25-netizen">
-    <img src="https://img.shields.io/badge/GitHub-ummuig25--netizen-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Connect%20with%20Umar%20Sharif-181717?style=for-the-badge&logo=github" />
   </a>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
