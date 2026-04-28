@@ -100,11 +100,25 @@
 
 <br/>
 
-## 📊 Actividad en GitHub
+## 🏆 Logros y Actividad
+
+<br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=dark&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&theme=dark&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ummuig25-netizen&theme=tokyonight&no-bg=true&no-frame=true&column=4" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ummuig25-netizen&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
 </div>
 
 <br/>
