@@ -19,6 +19,7 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/ummuig25-netizen?style=for-the-badge&logo=github&color=3178C6)](https://github.com/ummuig25-netizen)
+[![Ko-fi](https://img.shields.io/badge/Apóyame-Ko--fi-F16061?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/umarsharifmuhammad)
 
 <br/>
 <br/>
@@ -34,7 +35,7 @@
 ### **Desarrollo & Diseño**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,tailwind&theme=dark" />
   </a>
 </p>
 
@@ -43,7 +44,7 @@
 ### **Sistemas & Herramientas**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,git,bash,py,raspberrypi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,mysql,supabase,git,bash,py,raspberrypi&theme=dark" />
   </a>
 </p>
 
@@ -56,18 +57,27 @@
 
 ## 🚀 Proyectos Destacados
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 [CYCLE-IT](https://github.com/epuertasa/CYCLE-IT)</h3>
-      <p>SaaS de gestión de hardware sostenible. Trazabilidad de CO2 mediante QR y eficiencia energética con IoT.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 [Diseño Web Corporativo](https://github.com/ummuig25-netizen/disseny-web)</h3>
-      <p>Portafolio de interfaces modernas y responsive centradas en UX y rendimiento.</p>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<div align="left">
+
+### 🚖 [RUVIA: Movilidad Urbana](https://github.com/ummuig25-netizen/RUVIA)
+> *Plataforma socio-gremial para taxistas con seguridad avanzada y transparencia.*
+`React` `Supabase` `Leaflet` `Real-time`
+
+<br/>
+
+### 🌐 [CYCLE-IT: Hardware Sostenible](https://github.com/epuertasa/CYCLE-IT)
+> *Gestión inteligente de hardware con trazabilidad de CO2 y eficiencia energética.*
+`TypeScript` `React` `IoT` `Sustainability`
+
+<br/>
+
+### 📁 [Diseño Web Corporativo](https://github.com/ummuig25-netizen/disseny-web)
+> *Interfaces modernas centradas en la experiencia de usuario y el rendimiento.*
+`HTML5` `CSS3` `Responsive` `UI/UX`
+
+</div>
 
 <br/>
 <br/>
@@ -108,6 +118,10 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
   <br/>
   <p><i>"Construyendo el futuro de la web, un commit a la vez."</i></p>
+  <br/>
+  <a href="https://ko-fi.com/umarsharifmuhammad">
+    <img src="https://img.shields.io/badge/Invitame_un_café-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
 </div>
 
 </div>
