@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Umar 👋
+# Hi there, I'm Umar Sharif 👋
 
-### Full-Stack Developer & Web Design Enthusiast
+### Web Developer & Sustainable Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Web+Developer+in+training+%F0%9F%9A%80;Passionate+about+clean+code+%F0%9F%92%BB;Building+sustainable+tech+solutions+%F0%9F%8C%B1;HTML+%7C+CSS+%7C+TypeScript+%7C+JavaScript;Always+learning%2C+always+growing+%F0%9F%93%9A" alt="Typing SVG" />
 
@@ -21,7 +21,6 @@
 ```typescript
 const umar = {
   name:     "Umar Sharif Muhammad Iglesias",
-  alias:    "ummuig25-netizen",
   role:     "Web Developer · SMR Student",
   focus:    ["Web Design", "Frontend Development", "Sustainable Tech"],
   learning: ["TypeScript", "React", "Node.js", "IoT"],
@@ -128,7 +127,7 @@ const umar = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ummuig25--netizen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ummuig25-netizen)
+[![GitHub](https://img.shields.io/badge/GitHub-Umar%20Sharif-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ummuig25-netizen)
 
 </div>
 
