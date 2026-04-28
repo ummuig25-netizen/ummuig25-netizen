@@ -19,7 +19,6 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/ummuig25-netizen?style=for-the-badge&logo=github&color=3178C6)](https://github.com/ummuig25-netizen)
-[![Connect](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://github.com/ummuig25-netizen)
 
 <br/>
 <br/>
