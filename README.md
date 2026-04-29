@@ -63,19 +63,26 @@
 
 ### 🚖 [RUVIA: Movilidad Urbana](https://github.com/ummuig25-netizen/RUVIA)
 > *Plataforma socio-gremial para taxistas con seguridad avanzada y transparencia.*
-`React` `Supabase` `Leaflet` `Real-time`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,supabase,js&theme=dark" />
+  &nbsp;<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
 
 <br/>
 
 ### 🌐 [CYCLE-IT: Hardware Sostenible](https://github.com/epuertasa/CYCLE-IT)
 > *Gestión inteligente de hardware con trazabilidad de CO2 y eficiencia energética.*
-`TypeScript` `React` `IoT` `Sustainability`
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,raspberrypi,docker&theme=dark" />
+</p>
 
 <br/>
 
 ### 📁 [Diseño Web Corporativo](https://github.com/ummuig25-netizen/disseny-web)
 > *Interfaces modernas centradas en la experiencia de usuario y el rendimiento.*
-`HTML5` `CSS3` `Responsive` `UI/UX`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
 </div>
 
