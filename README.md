@@ -107,25 +107,25 @@
 
 <br/>
 
-## 🏆 Logros y Actividad
+## 📊 Actividad en GitHub
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ummuig25-netizen&theme=tokyonight&no-bg=true&no-frame=true&column=4" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ummuig25-netizen&theme=tokyo-night&hide_border=true&area=true&area_color=3178C6&line=3178C6&point=ffffff&color=9f9f9f&bg_color=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ummuig25-netizen&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ummuig25-netizen&theme=tokyonight&hide_border=true&background=0d1117&fire=3178C6&ring=3178C6&currStreakLabel=3178C6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
+  <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=c9d1d9&bg_color=0d1117&langs_count=6&hide=scss,shell" />
 </div>
 
 <br/>
