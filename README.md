@@ -40,7 +40,7 @@
 
 ## 👨‍💻 Sobre mí
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117&exclude_repo=disseny-web" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
 
 ```yaml
 nombre:     Umar Sharif Muhammad Iglesias
@@ -159,18 +159,24 @@ objetivo:    Crecer como Junior Developer Web
 
 <br/>
 
-## 🏆 Logros & Estadísticas
+## 🏆 Logros & Actividad
+
+<!-- EXTRA SEPARATOR FOR ACHIEVEMENTS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ummuig25-netizen&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=12&margin-h=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ummuig25-netizen&theme=darkhub&no-bg=true&no-frame=false&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
+<!-- SEPARATOR BETWEEN TROPHIES AND STATS -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
+
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117&exclude_repo=disseny-web" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
 </div>
 
 <br/>
