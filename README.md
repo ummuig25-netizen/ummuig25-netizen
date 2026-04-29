@@ -4,15 +4,17 @@
 <!--                     ANIMATED HEADER                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umar%20Sharif&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20SMR%20Student%20%7C%20Linux%20Enthusiast&descAlignY=56&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Umar%20Sharif&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Junior%20Developer%20%7C%20SMR%20Student%20%7C%20Web%20Creator&descAlignY=56&descAlign=50" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=650&lines=Estudiante+de+SMR+%F0%9F%92%BB;Apasionado+del+Desarrollo+Web+%F0%9F%8C%90;Entusiasta+de+Linux+%26+Redes+%F0%9F%94%A7;Automatizaci%C3%B3n+con+Raspberry+Pi+%F0%9F%AB%90;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=700&lines=Junior+Developer+Web+%F0%9F%8C%90;Apasionado+de+la+Programaci%C3%B3n+%F0%9F%92%BB;Creador+de+P%C3%A1ginas+Web+%F0%9F%8E%A8;Estudiante+de+SMR+%F0%9F%93%9A;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- PROFILE IMAGE -->
-<img src="profile_new.png" width="200" style="border-radius: 50%; border: 4px solid #3178C6;" />
+<!-- PROFILE IMAGE WITH ANIMATED BORDER -->
+<a href="https://github.com/ummuig25-netizen">
+  <img src="profile_new.png" width="200" style="border-radius:50%;border:4px solid #3178C6;box-shadow:0 0 25px #3178C6;" />
+</a>
 
 <br/>
 
@@ -31,35 +33,37 @@
 
 <br/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <br/>
 
 ## 👨‍💻 Sobre mí
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117&exclude_repo=disseny-web" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117&exclude_repo=disseny-web" />
 
 ```yaml
 nombre:     Umar Sharif Muhammad Iglesias
 ubicación:  España 🇪🇸 · Barcelona
 estudios:   Sistemas Microinformáticos y Redes (SMR)
-enfoque:    Desarrollo Web Full Stack
+enfoque:    Junior Developer Web 🌐
 
 intereses:
-  - 💻 Programación & Open Source
-  - 🐧 Linux & Administración de Redes
+  - 💻 Apasionado de la Programación
+  - 🌐 Creación de Páginas Web
   - 🫐 Automatización con Raspberry Pi
   - 🎨 Diseño UI/UX moderno
 
 aprendiendo: TypeScript · Docker · Supabase
-objetivo:    Convertirme en Dev Full Stack profesional
+objetivo:    Crecer como Junior Developer Web
 ```
 
 <br clear="right"/>
 
 <br/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <br/>
 
@@ -79,7 +83,8 @@ objetivo:    Convertirme en Dev Full Stack profesional
 
 <br/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <br/>
 
@@ -99,8 +104,8 @@ objetivo:    Convertirme en Dev Full Stack profesional
   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
 </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/ummuig25-netizen/RUVIA?style=flat-square&color=3178C6&labelColor=0d1117)
-![GitHub Forks](https://img.shields.io/github/forks/ummuig25-netizen/RUVIA?style=flat-square&color=3178C6&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/ummuig25-netizen/RUVIA?style=flat-square&color=3178C6&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/ummuig25-netizen/RUVIA?style=flat-square&color=3178C6&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
@@ -112,8 +117,8 @@ objetivo:    Convertirme en Dev Full Stack profesional
   <img src="https://skillicons.dev/icons?i=ts,react,raspberrypi,docker&theme=dark" />
 </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/epuertasa/CYCLE-IT?style=flat-square&color=3178C6&labelColor=0d1117)
-![GitHub Forks](https://img.shields.io/github/forks/epuertasa/CYCLE-IT?style=flat-square&color=3178C6&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/epuertasa/CYCLE-IT?style=flat-square&color=3178C6&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/epuertasa/CYCLE-IT?style=flat-square&color=3178C6&labelColor=0d1117)
 
 </td>
 </tr>
@@ -127,7 +132,7 @@ objetivo:    Convertirme en Dev Full Stack profesional
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </p>
 
-![GitHub Stars](https://img.shields.io/github/stars/ummuig25-netizen/disseny-web?style=flat-square&color=3178C6&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/ummuig25-netizen/disseny-web?style=flat-square&color=3178C6&labelColor=0d1117)
 
 </td>
 <td width="50%" valign="top">
@@ -149,7 +154,8 @@ objetivo:    Convertirme en Dev Full Stack profesional
 
 <br/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <br/>
 
@@ -177,12 +183,13 @@ objetivo:    Convertirme en Dev Full Stack profesional
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ummuig25-netizen&bg_color=0d1117&color=3178C6&line=3178C6&point=F16061&area=true&hide_border=true&area_color=1a2a4a&custom_title=Gráfico%20de%20Actividad%20en%20GitHub" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ummuig25-netizen&bg_color=0d1117&color=3178C6&line=3178C6&point=F16061&area=true&hide_border=true&area_color=1a2a4a&custom_title=Grafico%20de%20Actividad%20en%20GitHub" />
 </div>
 
 <br/>
 
----
+<!-- ANIMATED SEPARATOR -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90e1-6d4e4b9d2b5d.gif" width="100%">
 
 <br/>
 
@@ -197,11 +204,10 @@ objetivo:    Convertirme en Dev Full Stack profesional
 
 <br/>
 
----
-
 <!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   <p><i>"Construyendo el futuro de la web, un commit a la vez."</i></p>
   <a href="https://ko-fi.com/umarsharifmuhammad">
     <img src="https://img.shields.io/badge/Invítame_un_café-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
