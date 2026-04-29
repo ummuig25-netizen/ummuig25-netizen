@@ -137,15 +137,7 @@ objetivo:    Crecer como Junior Developer Web
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Portfolio Personal
-> Próximamente: web personal con CV descargable y proyectos detallados.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Estado-En%20Construcción-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
-
-<br/><br/>
-<i>¡Muy pronto disponible! 👀</i>
+<!-- PLACEHOLDER OR EMPTY TO KEEP TABLE BALANCED -->
 
 </td>
 </tr>
@@ -153,6 +145,29 @@ objetivo:    Crecer como Junior Developer Web
 </div>
 
 <br/>
+
+<!-- UNIQUE SEPARATOR FOR PORTFOLIO -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🌐 Mi Portfolio Personal
+
+<p><i>Explora mis proyectos más recientes, descarga mi CV y conoce más sobre mi trayectoria profesional en mi sitio web personal.</i></p>
+
+<br/>
+
+<a href="https://github.com/ummuig25-netizen">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3178C6&height=60&section=header&text=VISITAR+MI+PORTFOLIO+🚀&fontSize=25&fontColor=fff&animation=fadeIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Estado-En%20Construcción-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+
+</div>
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
