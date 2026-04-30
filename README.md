@@ -147,7 +147,14 @@
 </td>
 <td width="50%" valign="top">
 
-<!-- PLACEHOLDER OR EMPTY TO KEEP TABLE BALANCED -->
+### 📈 [QuoteXA: Análisis de Cuotas](https://github.com/epuertasa/quotexa-odds-engine)
+> Motor de análisis y comparación de cuotas deportivas en tiempo real con arquitectura modular y scraping avanzado.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker&theme=dark" />
+</p>
+
+![Stars](https://img.shields.io/github/stars/epuertasa/quotexa-odds-engine?style=flat-square&color=3178C6&labelColor=0d1117)
 
 </td>
 </tr>
