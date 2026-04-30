@@ -40,25 +40,35 @@
 
 ## 👨‍💻 Sobre mí
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
+<div align="center">
+<table border="0">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-nombre:     Umar Sharif Muhammad Iglesias
-ubicación:  España 🇪🇸 · Barcelona
-estudios:   Sistemas Microinformáticos y Redes (SMR)
-enfoque:    Junior Developer Web 🌐
+### 👤 Información Personal
+- **Nombre:** Umar Sharif Muhammad Iglesias
+- **Ubicación:** España 🇪🇸 · Barcelona
+- **Estudios:** Sistemas Microinformáticos y Redes (SMR)
+- **Enfoque:** Junior Developer Web 🌐
 
-intereses:
-  - 💻 Apasionado de la Programación
-  - 🌐 Creación de Páginas Web
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Mi Enfoque & Metas
+- **Objetivo:** Crecer como Junior Developer Web
+- **Aprendiendo:** TypeScript · Docker · Supabase
+- **Intereses:** 
+  - 💻 Programación & Creador Web
   - 🫐 Automatización con Raspberry Pi
   - 🎨 Diseño UI/UX moderno
 
-aprendiendo: TypeScript · Docker · Supabase
-objetivo:    Crecer como Junior Developer Web
-```
+</td>
+</tr>
+</table>
+</div>
 
-<br clear="right"/>
+<br/>
+
 
 <br/>
 
