@@ -193,14 +193,7 @@
 
 ## 🏆 Logros & Actividad
 
-<!-- EXTRA SEPARATOR FOR ACHIEVEMENTS -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ummuig25-netizen&theme=darkhub&no-bg=true&no-frame=false&column=4&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
 
 <!-- SEPARATOR BETWEEN TROPHIES AND STATS -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
