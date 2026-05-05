@@ -27,6 +27,8 @@
 <!-- BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/ummuig25-netizen?style=for-the-badge&logo=github&color=3178C6&labelColor=0d1117)](https://github.com/ummuig25-netizen)
 [![Profile Views](https://komarev.com/ghpvc/?username=ummuig25-netizen&style=for-the-badge&color=3178C6&labelColor=0d1117&label=VISITAS+AL+PERFIL)](https://github.com/ummuig25-netizen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/umar-sharif-muhammad-iglesias-54b451408/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/just_umar8/)
 [![Ko-fi](https://img.shields.io/badge/Invítame_un_café-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=0d1117)](https://ko-fi.com/umarsharifmuhammad)
 
 </div>

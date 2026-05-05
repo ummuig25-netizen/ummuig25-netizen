@@ -5,8 +5,8 @@ echo ==========================================
 echo.
 echo 1. Preparando repositorio local...
 git init
-git add README.md profile_new.png
-git commit -m "style: professionalize profile with new headshot and flag icons"
+git add .
+git commit -m "feat: add social links and linkedin profile kit"
 git branch -M main
 
 echo.
