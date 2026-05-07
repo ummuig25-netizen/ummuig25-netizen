@@ -178,13 +178,13 @@
 
 <br/>
 
-<a href="https://github.com/ummuig25-netizen">
+<a href="https://ummuig25-netizen.github.io/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=3178C6&height=60&section=header&text=VISITAR+MI+PORTFOLIO+🚀&fontSize=25&fontColor=fff&animation=fadeIn" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Estado-En%20Construcción-F97316?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Estado-Online-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 
 </div>
 
