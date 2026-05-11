@@ -84,7 +84,7 @@
 <div align="center">
 
 ### 🌐 Desarrollo & Diseño
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,tailwind,&theme=dark" />
 
 <br/>
 
@@ -205,9 +205,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=ummuig25-netizen&show_icons=true&theme=tokyonight&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f&bg_color=0d1117&rank_icon=github&include_all_commits=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummuig25-netizen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=ummuig25-netizen&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=3178C6&text_color=9f9f9f&bg_color=0d1117" />
 </div>
 
 <br/>
